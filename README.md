@@ -1,8 +1,6 @@
-# React + Vite
+# React Fashion Blog
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This React application was an excerice for building a mockup website with HTML and CSS first and then converting it to React with the use of components
 
-Currently, two official plugins are available:
+The first big commit will be the website as HTML and CSS and the latest commits will be the website as React JS
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
